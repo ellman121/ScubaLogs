@@ -1,0 +1,11 @@
+Dive Num   : 
+Location   : 
+Max. Depth : 
+Avg. Depth : 
+Visibility : 
+Water Temp : 
+Weight     : 
+Air Type   : 
+Wetsuit    : 
+Divers     : 
+

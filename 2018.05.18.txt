@@ -1,0 +1,11 @@
+Dive Num   : 6
+Location   : Toilet Bowl, Cape Manzamo, Okinawa, Japan
+Max. Depth : 30m
+Avg. Depth : 20m
+Visibility : Good
+Water Temp : 16 C
+Weight     : 5.4kg
+Air Type   : Normal
+Wetsuit    : None
+Divers     : Elliott, Kyle + Katie Macmillan
+

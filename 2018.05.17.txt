@@ -1,10 +1,11 @@
 Dive Num   : 5
 Location   : Maeda Flats, Maeda, Okinawa, Japan
-Depth      : 10m
-Visibility : 10m
+Avg Depth  : 8m
+Max Depth  : 10m
+Visibility : Good
 Water Temp : 23 C
-Weight     : 10 lb (not enough)
-Tank Type  : Normal Air
-Suit Type  : Swim Trunks, No wetsuit
+Weight     : 4.5kg
+Air Type   : Normal
+Wetsuit    : None
 Divers     : Elliott, Kyle MacMillan
 
