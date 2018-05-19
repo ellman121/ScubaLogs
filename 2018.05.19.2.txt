@@ -1,0 +1,12 @@
+Dive Num   : 8
+Location   : Keramas Islands, Japan (26.226032 N, 127.446121 E)
+Time Under : 40min
+Max. Depth : 12.2m
+Avg. Depth : 6m
+Visibility : Excellent
+Water Temp : 16C
+Weight     : 5.4kg
+Air Type   : Normal
+Wetsuit    : None
+Divers     : Elliott, Andrew Stelter
+

@@ -1,9 +1,10 @@
 Dive Num   : 5
 Location   : Maeda Flats, Maeda, Okinawa, Japan
+Time Under : 35min
 Avg Depth  : 8m
 Max Depth  : 10m
 Visibility : Good
-Water Temp : 23 C
+Water Temp : 23C
 Weight     : 4.5kg
 Air Type   : Normal
 Wetsuit    : None

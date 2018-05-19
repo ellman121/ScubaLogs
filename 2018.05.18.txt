@@ -1,9 +1,10 @@
 Dive Num   : 6
 Location   : Toilet Bowl, Cape Manzamo, Okinawa, Japan
+Time Under : 45min
 Max. Depth : 30m
 Avg. Depth : 20m
 Visibility : Good
-Water Temp : 16 C
+Water Temp : 16C
 Weight     : 5.4kg
 Air Type   : Normal
 Wetsuit    : None
